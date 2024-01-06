@@ -1,4 +1,4 @@
-# Implementing-DFS-BFS-and-A-Search-Algorithm-in-a-Maze
+# Implementing-DFS-BFS-and-A-star-Search-Algorithm-in-a-Maze
 Implemented Stack, Deque and Heapque through DFS, BFS and A* Search Algorithm
 
 1. In order to select a maze go to config.py and uncomment the required maze file.
